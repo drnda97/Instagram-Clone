@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+.content-wrapper{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* navbar css */
+input[type="search"]{
+  border-color: lightgray;
+  text-align: center;
+  width: 100%;
+}
+img.home{
+  margin-top: -5%;
+}
+li.home{
+  width: 53px;
+}
+
+/* profile css */
+div.profile-image{
+  text-align: center;
+}
+div.profile-image img{
+  border-radius: 50%;
+}
